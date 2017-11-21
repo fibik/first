@@ -35,6 +35,6 @@ class DeliveryList {
 	// TODO: GUI
 	// TODO: TFS integration
 	// TODO: SVN integration
-	// 
+	// TODO: GIT integration
 	
 }
